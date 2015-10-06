@@ -1,0 +1,24 @@
+{
+  "name": "css-length-units",
+  "version": "1.0.0",
+  "description": "List of CSS length units.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmao/css-length-units.git"
+  },
+  "keywords": [
+    "css",
+    "length",
+    "units"
+  ],
+  "author": "Jed Mao <jedmao@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmao/css-length-units/issues"
+  },
+  "homepage": "https://github.com/jedmao/css-length-units#readme"
+}
